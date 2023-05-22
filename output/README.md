@@ -1,3 +1,3 @@
 # Output results from Interwave Analyzer - Lake Milada 
 
-Interwave Analyzer has been run for station West and East through data from 01/07/2015 (00H:00M) to  31/07/2015 (23H:55M). The seeting used to obtain this two results is found in seetings folder 
+Interwave Analyzer has been run for station West and East through data from 01/07/2015 (00H:00M) to  31/07/2015 (23H:55M). The settings used to obtain this two results is found in settings folder 
