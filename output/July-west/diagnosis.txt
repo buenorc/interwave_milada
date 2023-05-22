@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------------
+Interwave Analyzer diagnosis
+-------------------------------------------------------------------------------------
+
+> Warning: the temporal resolution of the decomposition model is higher than the temporal resolution of analysis 
+> The resolution of the decomposition model has been changed to the same of the resolution data 
+> dt=5min
+
+
+> Warning: Metalimnion borders have not been computed efficiently 15% of the total analyzed period 
+> In this case metalimnion thickness is assumed to have a 1/3 thickness of the total water depth 
+
+
+> Warning: V1H1 period has been estimated from time averaged profiles  
+> 14% of the total analyzed period 
+> It may occurs due to the difficulty to Interwave Analyzer identify the two-layer structure 
+
+
+> Warning: V2H1 period has been estimated from time averaged profiles  
+> 14% of the total analyzed period 
+> It may occurs due to the difficulty to Interwave Analyzer identify the three-layer structure 
+
+
+> Warning: Thermocline was estimated using the approximation of the fastest density gradient
+> 13% of the total analyzed period 
+> It may occurs due to a division by zero in the more sofisticated method  
+
+
